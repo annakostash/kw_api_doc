@@ -18,7 +18,7 @@ Authentication
                 -X POST \
                 -H "Content-Type: application/json" \
                 -d @body.json \
-                http://localhost/kw_api/auth/token/refresh
+                http://localhost/kw_api/auth/token
 
         .. code-tab:: python
 
